@@ -1,2 +1,2 @@
-# my-html-resume
+# my-resume
 HTML page of my resume.
